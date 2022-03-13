@@ -19,3 +19,6 @@ Input (Question, Answer1, Answer2, Answer3)
 Output: "DB is updated with new data"(message in frontend)
 
 ![This is an image](HomePageImage.PNG)
+![This is an image](HomePageOutputImage.PNG)
+![This is an image](UpdatePageImage.PNG)
+
