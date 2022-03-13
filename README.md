@@ -18,4 +18,4 @@ Output (Answer 1, Answer 2, Answer 3)
 Input (Question, Answer1, Answer2, Answer3)
 Output: "DB is updated with new data"(message in frontend)
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](HomePageImage.PNG)
