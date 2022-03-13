@@ -1,0 +1,23 @@
+<body>
+<h1> Welcome </h1>
+<!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+      integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+
+<a class="btn btn-primary" href="http://127.0.0.1:5000/" role="button">Search</a>
+<a class="btn btn-primary" href="http://127.0.0.1:5000/update" role="button">Update</a>
+
+<div class="container">
+    <form action="http://127.0.0.1:5000/" method="post">
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Question</label>
+            <input type="text" class="form-control" id="exampleInputEmail1" name= 'Question' aria-describedby="emailHelp">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+</body>
